@@ -3,7 +3,7 @@
 - 🌱 I’m currently working at bask
 - 💞️ I’m looking to collaborate on anything you have to offer i am quite flexible in learning
 - 📫 How to reach me iamrpiyanshu1009@gmail.com
-- 😄 Pronouns: he she
+- 😄 Pronouns: he 
 - ⚡ Fun fact: i am the only developer at my office
 
 <!---
